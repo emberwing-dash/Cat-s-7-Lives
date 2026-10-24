@@ -1,0 +1,8 @@
+{
+    "name": "CatOnTheSill.Editor",
+    "rootNamespace": "CatOnTheSill.EditorTools",
+    "references": [ "CatOnTheSill", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime", "UnityEngine.UI", "Unity.InputSystem" ],
+    "includePlatforms": [ "Editor" ],
+    "excludePlatforms": [],
+    "autoReferenced": true
+}
